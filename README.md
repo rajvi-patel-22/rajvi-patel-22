@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hi, I'm Rajvi 👋
+<br />
 
-<!--
-**rajvi-patel-22/rajvi-patel-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rajvi-patel-22&label=Views&color=0e75b6&style=plastic" alt="rajvi-patel-22" /></p>
 
-Here are some ideas to get you started:
+### About Me
+- CS Grad Student at Arizona State University.
+- Turning ideas into reality with the magic of Python, React, and JavaScript.
+- Skilled in crafting clean, efficient code using OOP and data structures.
+- Experience architecting robust systems and leveraging ELK for comprehensive monitoring and analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools of the Trade
+- Languages: Python, JavaScript, React, HTML, CSS
+- Frameworks: React, Django (in progress)
+- Databases: PostgreSQL, MySQL
+- Tools: Git, GitHub, ELK Stack, VS Code
+
+### Beyond the code
+- Strong analytical and problem-solving skills
+- Excellent communication and collaboration abilities
+- Passionate about continuous learning and innovation
+
+### Looking for
+- Opportunities to contribute to meaningful projects
+- Collaborations with talented individuals
+- Challenges that push me to grow as a developer
+- Ready to connect? I'm always up for a chat! [LinkedIn Profile](https://www.linkedin.com/in/rajvi-patel-m)
+
+
+[instagram]: https://instagram.com/lucikritz
+[linkedin]: https://linkedin.com/in/krishal-shah
+
+### Statistics
+
+<a href="https://github.com/rajvi-patel-22/rajvi-patel-22">
+    <img
+         align="center"
+         src="https://github-readme-stats.vercel.app/api?username=rajvi-patel-22&show_icons=true&hide_title=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+         alt="Rajvi's GitHub Stats"
+    />
+</a>
+
+### Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajvi-patel-22&theme=dark)](https://git.io/streak-stats)
+
+#### This is just the beginning... Stay tuned for more projects and updates!
