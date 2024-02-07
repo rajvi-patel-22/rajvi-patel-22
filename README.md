@@ -4,10 +4,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rajvi-patel-22&label=Views&color=0e75b6&style=plastic" alt="rajvi-patel-22" /></p>
 
 ### About Me
-- CS Grad Student at Arizona State University.
-- Turning ideas into reality with the magic of Python, React, and JavaScript.
-- Skilled in crafting clean, efficient code using OOP and data structures.
-- Experience architecting robust systems and leveraging ELK for comprehensive monitoring and analysis.
+- CS Grad Student at Arizona State University
+- Turning ideas into reality with the magic of Python, React, and JavaScript
+- Skilled in crafting clean, efficient code using OOP and data structures
+- Experience architecting robust systems and leveraging ELK for comprehensive monitoring and analysis
 
 ### Tools of the Trade
 - Languages: Python, JavaScript, React, HTML, CSS
