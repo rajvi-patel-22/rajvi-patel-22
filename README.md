@@ -26,10 +26,6 @@
 - Challenges that push me to grow as a developer
 - Ready to connect? I'm always up for a chat! [LinkedIn Profile](https://www.linkedin.com/in/rajvi-patel-m)
 
-
-[instagram]: https://instagram.com/lucikritz
-[linkedin]: https://linkedin.com/in/krishal-shah
-
 ### Statistics
 
 <a href="https://github.com/rajvi-patel-22/rajvi-patel-22">
@@ -42,6 +38,6 @@
 
 ### Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajvi-patel-22&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajvi-patel-22&starting_year=2017&theme=dark)](https://git.io/streak-stats)
 
 #### This is just the beginning... Stay tuned for more projects and updates!
