@@ -11,7 +11,7 @@
 
 ### Tools of the Trade
 - Languages: Python, JavaScript, React, HTML, CSS
-- Frameworks: React, Django (in progress)
+- Frameworks: React, Django
 - Databases: PostgreSQL, MySQL
 - Tools: Git, GitHub, ELK Stack, VS Code
 
